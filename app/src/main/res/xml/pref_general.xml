@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:tools="http://schemas.android.com/apk/res-auto">
+
+    <org.xdty.colorpicker.ColorPreference
+        android:key="primer_color"
+        android:title="Color"
+        android:summary="This is a color preference"
+        android:defaultValue="@color/flamingo"/>
+</PreferenceScreen>
